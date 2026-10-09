@@ -1,0 +1,24 @@
+{
+  "name": "petriphi",
+  "displayName": "PetriPhi",
+  "season": "october",
+  "type": "seasonal-experience",
+  "entry": "index.html",
+  "widgetProvider": "WidgetPhi",
+  "widget": "seasonal-card",
+  "modes": [
+    "art",
+    "story",
+    "vintage",
+    "costume"
+  ],
+  "requiresDeployment": true,
+  "media": {
+    "render": "canvas-procedural",
+    "aiImageProvider": "not-connected",
+    "gallery": "browser-local"
+  },
+  "wallet": {
+    "collect": "host-verified"
+  }
+}
